@@ -1,6 +1,6 @@
 # Nvidia's Disaster Risk Monitoring Using Satellite Imagery (My Notes on What I Learned)
 
-This Course combines AI, machine learning, and satellite data for disaster risk assessment and monitoring.
+This Course combines AI, Machine Learning, and Satellite Data for Disaster Risk Assessment and Monitoring.
 
 ## Key Learnings
 
